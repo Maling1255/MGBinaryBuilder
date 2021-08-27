@@ -1,0 +1,22 @@
+{
+  "name": "MGBinaryBuilder",
+  "version": "0.1.0",
+  "summary": "A short description of MGBinaryBuilder.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/malgee@163.com/MGBinaryBuilder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "malgee@163.com": "951684507@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/malgee@163.com/MGBinaryBuilder.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MGBinaryBuilder/Classes/**/*"
+}

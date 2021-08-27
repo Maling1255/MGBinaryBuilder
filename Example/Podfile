@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MGBinaryBuilder_Example' do
+  pod 'MGBinaryBuilder', :path => '../'
+
+  target 'MGBinaryBuilder_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

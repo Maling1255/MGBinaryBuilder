@@ -1,0 +1,16 @@
+PODS:
+  - MGBinaryBuilder (0.1.0)
+
+DEPENDENCIES:
+  - MGBinaryBuilder (from `../`)
+
+EXTERNAL SOURCES:
+  MGBinaryBuilder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGBinaryBuilder: 0b0c8fdac4a3ec88fcc76776d08c51c0cdc3af86
+
+PODFILE CHECKSUM: f3ef6f9f44f069fe8307d2637105252fc9654da4
+
+COCOAPODS: 1.10.0

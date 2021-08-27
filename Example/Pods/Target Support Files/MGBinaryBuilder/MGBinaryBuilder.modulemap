@@ -1,0 +1,6 @@
+framework module MGBinaryBuilder {
+  umbrella header "MGBinaryBuilder-umbrella.h"
+
+  export *
+  module * { export * }
+}
